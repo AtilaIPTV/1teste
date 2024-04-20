@@ -1,0 +1,48 @@
+#ETXM3U 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk3vnh5gbmchvdXEp7kBKNrG0klWTr7HYw9X99X52-GQ&s" group-title="Canais | Infantil" , Tooncast FHD
+http://cdnrede.com/live/mauri123/mauri123/232603.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk3vnh5gbmchvdXEp7kBKNrG0klWTr7HYw9X99X52-GQ&s" group-title="Canais | Infantil" , Tooncast HD
+http://cdnrede.com/live/mauri123/mauri123/232604.m3u8 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk3vnh5gbmchvdXEp7kBKNrG0klWTr7HYw9X99X52-GQ&s" group-title="Canais | Infantil" , Tooncast HD²
+http://cdnrede.com/live/mauri123/mauri123/232605.m3u8 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk3vnh5gbmchvdXEp7kBKNrG0klWTr7HYw9X99X52-GQ&s" group-title="Canais | Infantil" , Tooncast SD
+http://slxl.mx/live/009296169212/121369555/3840.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgbYqUuxk8RiM7TcOQEadkbSUwf2ZzR4uWgTsPuU-YXbTMRZVzkN70mQM&s=10" group-title="Canais | Infantil" , Disney Channel FHD [H265]
+http://bdta.pro/MARCOANTONIO2223/726KDFzwb/71892.m3u8 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgbYqUuxk8RiM7TcOQEadkbSUwf2ZzR4uWgTsPuU-YXbTMRZVzkN70mQM&s=10" group-title="Canais | Infantil" , Disney Channel FHD
+http://bdta.pro/MARCOANTONIO2223/726KDFzwb/71891.m3u8 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgbYqUuxk8RiM7TcOQEadkbSUwf2ZzR4uWgTsPuU-YXbTMRZVzkN70mQM&s=10" group-title="Canais | Infantil" , Disney Channel HD
+http://bdta.pro/MARCOANTONIO2223/726KDFzwb/71893.m3u8 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgbYqUuxk8RiM7TcOQEadkbSUwf2ZzR4uWgTsPuU-YXbTMRZVzkN70mQM&s=10" group-title="Canais | Infantil" , Disney Channel 4K FHDR
+http://slxl.mx/live/009296169212/121369555/118941.m3u8 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgbYqUuxk8RiM7TcOQEadkbSUwf2ZzR4uWgTsPuU-YXbTMRZVzkN70mQM&s=10" group-title="Canais | Infantil" , Disney Channel 4K² FHDR
+http://bdta.pro/MARCOANTONIO2223/726KDFzwb/103508.m3u8 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png" group-title="Canais | Esportes" , Premiere 2 4K FHDR
+http://slxl.mx/live/009296169212/121369555/118955.m3u8 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png" group-title="Canais | Esportes" , Premiere 2 FHD [H265]
+http://bdta.pro/MARCOANTONIO2223/726KDFzwb/72238.m3u8 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png" group-title="Canais | Esportes" , Premiere 2 FHD
+https://bdta.pro/MARCOANTONIO2223/726KDFzwb/72237.m3u8 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png" group-title="Canais | Esportes" , Premiere 2 FHD²
+http://7go.xyz:8080/live/72m9u9yu/den7gw4u/58738.m3u8 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png" group-title="Canais | Esportes" , Premiere 2 FHD³
+http://slxl.mx/live/009296169212/121369555/3871.m3u8 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png" group-title="Canais | Esportes" , Premiere 2 FHD [H265]²
+http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/49929.m3u8
